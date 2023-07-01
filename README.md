@@ -6,3 +6,6 @@
 ## 시작 가이드
 ### 개발 기술
 ### <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+## 멤버
+### 동명대학교 배교성 / 김동현 / 안준현 / 이민재
