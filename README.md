@@ -13,8 +13,10 @@
 ## YOLO V5를 이용한 학습
 ### 마작패 만수를 밝기를 조절하여 1만 - 11장, 2만 - 11장, ... , 9만 - 11장, 적5만 - 11장, 총 110장의 이미지 준비   
 
+
 ### 학습 후 최고 정확도 결과
 ### ![Alt test](https://github.com/bae7491/mahjong_detect_AI/assets/44579627/147f354e-9a04-4df9-af5d-fa7b5bd9711c)   
+
 
 ### 학습 후 정확도가 낮은 결과
 ### ![Alt test](https://github.com/bae7491/mahjong_detect_AI/assets/44579627/4a9784ec-86d3-4d26-8191-75a3fa16d387)
